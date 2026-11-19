@@ -1,6 +1,6 @@
 <div align="center">
 
-# Prism Menu
+# XainoGeometry
 A mod menu made in Geode for Geometry Dash, made by [Firee](https://github.com/FireMario211)
 
 <a href="https://discord.gg/pnD8cnwdhZ"><img src="https://img.shields.io/discord/1199008625683869787?color=7389D8&labelColor=6A7EC2&logo=discord&logoColor=FFFFFF" alt="Discord" /></a>
